@@ -2422,7 +2422,7 @@ const teamMembers = [
   { name: "S. Faiz Hameed Raja", role: "Advocate" },
   { name: "Oviya N", role: "Advocate" },
   { name: "G. Janarajan", role: "Advocate" },
-  { name: "V. Prabhakaran", role: "Advocate" },
+  { name: "Prabhakaran V", role: "Advocate" },
   { name: "G. Selvakumar", role: "Advocate" },
   { name: "S. Mohan Raj", role: "Advocate" },
   { name: "K. Sharmila", role: "Advocate" },
